@@ -32,7 +32,7 @@ int main()
 			f = 1;
 		}
 		else f = 0; 
-		if (f == 0 && m != 0) 
+		if (f == 0 && m != 0)  
 		{
 			words[n][m] = 0; 
 			n++; 
